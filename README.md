@@ -13,6 +13,10 @@ python main.py --apikey xxxx --start_page 1 --end_page 10 --page_size 100 --rule
 
 如果是 Windows 系统可以直接到 [发布页面](https://github.com/akkuman/HunterApi/releases/latest) 进行下载使用
 
+## 截图
+
+![](./pics/Snipaste_2021-10-21_17-17-45.png)
+
 ## 帮助说明
 
 ```
