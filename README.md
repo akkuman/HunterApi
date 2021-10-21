@@ -11,6 +11,8 @@ pip install -r requirements.txt
 python main.py --apikey xxxx --start_page 1 --end_page 10 --page_size 100 --rule "title=\"北京\""
 ```
 
+如果是 Windows 系统可以直接到 [发布页面](https://github.com/akkuman/HunterApi/releases/latest) 进行下载使用
+
 ## 帮助说明
 
 ```
